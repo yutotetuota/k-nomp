@@ -1,6 +1,6 @@
 {
-    "name": "koto",
-    "symbol": "koto",
+    "name": "Koto",
+    "symbol": "KOTO",
     "algorithm": "yescrypt",
     "requireShielding": true,
     "payFoundersReward": false,
