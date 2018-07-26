@@ -1,6 +1,6 @@
 {
     "name": "Koto",
-    "symbol": "KOTO",
+    "symbol": "TOKO",
     "algorithm": "yescrypt",
     "requireShielding": true,
     "nSubsidySlowStartInterval": 43200,
